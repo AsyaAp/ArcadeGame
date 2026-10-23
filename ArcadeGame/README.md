@@ -26,19 +26,3 @@ Strategy
 
 bash
 dotnet run
-
-Структура репозитория
-
-ArcadeGame/
-├── ArcadeGame.csproj
-├── Program.cs
-├── README.md
-├── Models/
-│   ├── Vector2.cs
-│   ├── GameObjects.cs
-│   └── GameWorld.cs
-└── Patterns/
-    ├── Renderers.cs
-    ├── Physics.cs
-    ├── Behaviors.cs
-    └── GameLoop.cs
