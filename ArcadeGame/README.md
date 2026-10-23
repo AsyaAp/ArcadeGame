@@ -3,6 +3,7 @@
 Консольное приложение на C# (.NET 8) - мини-игра с игровыми объектами, физикой и отрисовкой. Демонстрирует независимое развитие физики и рендеринга и динамическую замену поведения врагов во время выполнения.
 
 Скриншоты вывода программы
+
 <img width="675" height="319" alt="1" src="https://github.com/user-attachments/assets/aafce817-ecbb-47ce-9ce1-af8305109d95" />
 <img width="741" height="367" alt="2" src="https://github.com/user-attachments/assets/0619fc84-8697-4efd-8aac-0c371bde2ff6" />
 
