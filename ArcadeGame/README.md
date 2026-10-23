@@ -25,4 +25,5 @@ Strategy
 Запуск
 
 bash
+
 dotnet run
